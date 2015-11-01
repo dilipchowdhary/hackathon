@@ -1,0 +1,1 @@
+./testhack.sh > input.txt
